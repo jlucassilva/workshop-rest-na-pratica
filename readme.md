@@ -1,6 +1,6 @@
 ## Workshop Rest na Prática
 
-Para executarmos o momento da prática de forma rápida e eficaz, solicito que façam o Fork desse repositório para suas contas, clonem e testem os 2 projetos que estão aqui.
+Para executarmos o momento da prática de forma rápida e eficaz, participantes devem fazer o Fork desse repositório para suas contas, clonem e testem os 2 projetos que estão aqui.
 
 - pedido-quarkus
 - pedido-spring
